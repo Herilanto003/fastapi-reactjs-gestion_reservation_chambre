@@ -1,0 +1,3 @@
+*.pyc
+react-admin-vite/node_modules/
+backend/venv/
